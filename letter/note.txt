@@ -1,0 +1,6 @@
+cam : #f37715
+xám : #3d3d3d
+nen ghi nhat : #f7f7f7
+nen footer : #41474e
+cam footer : #ee7516
+xanh footer : #24a2fb
